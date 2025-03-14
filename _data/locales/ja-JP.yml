@@ -56,7 +56,7 @@ post:
   posted: 投稿日
   updated: 更新日
   words: words
-  pageview_measure: 回閲覧 #views
+  pageview_measure: 回閲覧
   read_time:
     unit: 分
     prompt: で読めます
